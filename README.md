@@ -1,5 +1,5 @@
 # bug-report-practice
-*Практика по составлению баг-репортов, выполненная в рамках курса Надежды Дудник ProTestingInfo*
+*Практика по составлению баг-репортов, выполненная в рамках курса Надежды Дудник ProTestingInfo https://protestinginfo.ru/*
 
 [Гугл-таблица с выполненным заданием](https://docs.google.com/spreadsheets/d/1t9wcdvg5vlFklGtLLHSxpngTfCj0xTxyK2I2OUNOpDU/edit?usp=sharing)
 
